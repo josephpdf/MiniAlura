@@ -210,7 +210,6 @@ body {
 }
 
 @media(min-width: 769px) {
-
 	.container {
 		width: 85%;	
 	}
@@ -254,7 +253,6 @@ body {
 	.contenidoPrincipal-cursos-link:nth-child(3n+1) {
 		margin-left: 0;
 	}
-
 }
 
 @media(min-width: 1000px) {
@@ -281,5 +279,4 @@ body {
 	.videoSobre-sobre {
 		margin-left: 1.5em;
 	}
-
 }
